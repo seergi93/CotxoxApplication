@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cotxox.application.controller;
+package cotxoxApplication.controller;
 
-import cotxox.application.entity.Driver;
-import cotxox.application.repository.PoolDrivers;
+import cotxoxApplication.entity.Driver;
+import cotxoxApplication.repository.PoolDrivers;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

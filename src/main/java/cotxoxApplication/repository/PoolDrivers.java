@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cotxox.application.repository;
+package cotxoxApplication.repository;
 
 import java.io.Serializable;
 import org.springframework.data.jpa.repository.JpaRepository;
-import cotxox.application.entity.Driver;
+import cotxoxApplication.entity.Driver;
 
 /**
  *
